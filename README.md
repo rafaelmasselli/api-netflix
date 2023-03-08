@@ -60,7 +60,7 @@ $ docker compose up
 $ npx prisma migrate dev
 ```
 
-### E assim ira rodar o banco do docker
+### E assim ira rodar o banco no docker
 
 ![Imagem do docker rodando](/.github/DockerRodando.png)
 
